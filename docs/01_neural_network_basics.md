@@ -25,7 +25,7 @@ y = w₁x₁ + w₂x₂ + ... + wₙxₙ
 
 here, w's are wight and x are input values.
 
-### With 3 steps Neural Network work:
+### With 4 steps Neural Network Work:
 
 1. It make prediction through **forward pass**. 
    (we will learn it leter)
