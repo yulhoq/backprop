@@ -1,1 +1,1 @@
-# backprop
+In this repo, we are mainly focus on backpropagating algorithm (the backbone of any ai model learning).. 
